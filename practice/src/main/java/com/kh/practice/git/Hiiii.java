@@ -10,5 +10,9 @@ public class Hiiii {
 	
 	private String 개어렵네;
 	
+	private String 십팔시사십팔분;
+	
+	
+	
 
 }
