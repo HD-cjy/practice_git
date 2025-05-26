@@ -6,5 +6,6 @@ public class MyTest {
 	private int number2;
 
 	private String number;
+	private String No;
 
 }
