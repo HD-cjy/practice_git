@@ -14,5 +14,7 @@ public class MyTest {
 	private String hooo;
 
 	private String no;
+	
+	private int age;
 
 }
