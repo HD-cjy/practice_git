@@ -18,4 +18,11 @@ public class MyTest {
 	
 	private int age;
 
+
+
+
+public void ad12() {
+	
+
+}
 }
