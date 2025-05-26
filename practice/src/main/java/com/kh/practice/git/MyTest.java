@@ -23,5 +23,14 @@ public class MyTest {
 	
 	private String nooo;
 	private String no;
+	
+	private int age;
 
+
+
+
+public void ad12() {
+	
+
+}
 }
