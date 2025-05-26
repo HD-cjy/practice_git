@@ -6,7 +6,6 @@ public class MyTest {
 	private int number2;
 
 	private String number;
-<<<<<<< HEAD
 	private String jonna;
 	private String hard;
 	private String sip;
@@ -14,8 +13,9 @@ public class MyTest {
 	private String jinjja;
 	private String hooo;
 
-=======
-	private String No;
+	private String nooo;
+	private String no;
+	
+	private int age;
 
->>>>>>> refs/remotes/origin/main
 }
