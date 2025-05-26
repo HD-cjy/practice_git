@@ -5,6 +5,10 @@ public class Hiiii {
 	private String hii;
 	private String hii1;
 	private String hii2;
+<<<<<<< HEAD
+	private String hii3;
+	private int number;
+=======
 	
 	private String hii3;
 	
@@ -14,5 +18,6 @@ public class Hiiii {
 	
 	
 	
+>>>>>>> refs/remotes/origin/main
 
 }
