@@ -13,6 +13,7 @@ public class MyTest {
 	private String jinjja;
 	private String hooo;
 
+	private String nooo;
 	private String no;
 	
 	private int age;
