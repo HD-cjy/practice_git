@@ -7,5 +7,8 @@ public class Hiiii {
 	private String hii2;
 	
 	private String hii3;
+	
+	private String 개어렵네;
+	
 
 }
