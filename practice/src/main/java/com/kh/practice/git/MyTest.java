@@ -2,5 +2,9 @@ package com.kh.practice.git;
 
 public class MyTest {
 	private String name;
-	private int number;
+
+	private int number2;
+
+	private String number;
+
 }
