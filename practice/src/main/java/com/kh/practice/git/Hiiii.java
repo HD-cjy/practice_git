@@ -8,6 +8,4 @@ public class Hiiii {
 	
 	private String hii3;
 
-	
-
 }
