@@ -6,10 +6,23 @@ public class MyTest {
 	private int number2;
 
 	private String number;
-	private String No;
+	private String jonna;
+	private String hard;
+	private String sip;
+	private String pal;
+	private String jinjja;
+	private String hooo;
+
+	private String nooo;
+	private String no;
+	
+	private int age;
+
+
 
 
 public void ad12() {
 	
+
 }
 }
