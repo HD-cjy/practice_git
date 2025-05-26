@@ -8,4 +8,8 @@ public class MyTest {
 	private String number;
 	private String No;
 
+
+public void ad12() {
+	
+}
 }
